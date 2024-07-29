@@ -1,0 +1,6 @@
+@tema19_HostAddress = http://localhost:5057
+
+GET {{tema19_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
